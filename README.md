@@ -1,8 +1,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0m4n904&show_icons=true&theme=transparent&title_color=00b4e7&text_color=00b4e7&icon_color=00b4e7&border_color=00b4e7)](https://github.com/anuraghazra/github-readme-stats)
-- 🤔 I’m looking for help with Kotlin and Discord4j
-  - Issue is Bot is not responding after a random time
-  - Source-Code is available at [halogenOS GitLab](https://git.halogenos.org/halogenOS/halogenos.discordbot)
-- 📫 How to reach me: contact@nonetwor.cc
 <!--
 **N0m4n904/N0m4n904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
